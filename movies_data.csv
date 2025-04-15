@@ -1,0 +1,101 @@
+movie_id,title,year,genre,language,rating,actor,actress,poster_url
+1,The Shawshank Redemption,1994,Crime,English,9.3,Tom Hanks,Meryl Streep,https://picsum.photos/id/100/300/450
+2,The Godfather,1993,Horror,English,7.2,Leonardo DiCaprio,Jennifer Lawrence,https://picsum.photos/id/101/300/450
+3,The Dark Knight,2000,Comedy,English,6.5,Brad Pitt,Scarlett Johansson,https://picsum.photos/id/102/300/450
+4,Pulp Fiction,2010,Fantasy,English,5.2,Robert Downey Jr.,Emma Stone,https://picsum.photos/id/103/300/450
+5,Forrest Gump,2015,Romance,English,7.5,Denzel Washington,Natalie Portman,https://picsum.photos/id/104/300/450
+6,Inception,2000,Action,English,6.8,Christian Bale,Cate Blanchett,https://picsum.photos/id/105/300/450
+7,The Matrix,2004,Adventure,English,7.1,Tom Cruise,Anne Hathaway,https://picsum.photos/id/106/300/450
+8,Interstellar,2015,Action,English,9.4,Johnny Depp,Viola Davis,https://picsum.photos/id/107/300/450
+9,Fight Club,2022,Comedy,English,8.9,Morgan Freeman,Nicole Kidman,https://picsum.photos/id/108/300/450
+10,Goodfellas,2010,Thriller,English,9.9,Matt Damon,Kate Winslet,https://picsum.photos/id/109/300/450
+11,The Lord of the Rings: The Fellowship of the Ring,2010,Comedy,English,7.6,Hugh Jackman,Charlize Theron,https://picsum.photos/id/110/300/450
+12,The Silence of the Lambs,1997,Fantasy,English,8.5,Will Smith,Emma Watson,https://picsum.photos/id/111/300/450
+13,Saving Private Ryan,2005,Romance,English,6.9,Matthew McConaughey,Jessica Chastain,https://picsum.photos/id/112/300/450
+14,The Green Mile,2002,Adventure,English,5.1,Ryan Gosling,Amy Adams,https://picsum.photos/id/113/300/450
+15,Schindler's List,2020,Crime,English,6.7,Chris Hemsworth,Margot Robbie,https://picsum.photos/id/114/300/450
+16,Gladiator,2023,Adventure,English,8.4,Chris Evans,Saoirse Ronan,https://picsum.photos/id/115/300/450
+17,The Departed,2023,Thriller,English,7.0,Keanu Reeves,Brie Larson,https://picsum.photos/id/116/300/450
+18,The Prestige,2010,Comedy,English,8.6,Joaquin Phoenix,Jennifer Aniston,https://picsum.photos/id/117/300/450
+19,The Lion King,1997,Comedy,English,5.3,Jake Gyllenhaal,Sandra Bullock,https://picsum.photos/id/118/300/450
+20,Titanic,1993,Horror,English,6.7,Benedict Cumberbatch,Angelina Jolie,https://picsum.photos/id/119/300/450
+21,Dangal,2007,Thriller,Hindi,9.1,Aamir Khan,Deepika Padukone,https://picsum.photos/id/120/300/450
+22,PK,1996,Crime,Hindi,7.8,Shah Rukh Khan,Alia Bhatt,https://picsum.photos/id/121/300/450
+23,3 Idiots,2009,Thriller,Hindi,5.8,Salman Khan,Priyanka Chopra,https://picsum.photos/id/122/300/450
+24,Bajrangi Bhaijaan,1994,Fantasy,Hindi,7.6,Amitabh Bachchan,Kareena Kapoor,https://picsum.photos/id/123/300/450
+25,Lagaan,2022,Fantasy,Hindi,7.0,Ranbir Kapoor,Katrina Kaif,https://picsum.photos/id/124/300/450
+26,Gully Boy,2019,Romance,Hindi,9.9,Ranveer Singh,Vidya Balan,https://picsum.photos/id/125/300/450
+27,Dil Chahta Hai,1994,Adventure,Hindi,9.1,Hrithik Roshan,Kangana Ranaut,https://picsum.photos/id/126/300/450
+28,Zindagi Na Milegi Dobara,2008,Fantasy,Hindi,5.3,Akshay Kumar,Anushka Sharma,https://picsum.photos/id/127/300/450
+29,Queen,2004,Sci-Fi,Hindi,9.9,Irrfan Khan,Taapsee Pannu,https://picsum.photos/id/128/300/450
+30,Andhadhun,2016,Comedy,Hindi,9.8,Nawazuddin Siddiqui,Shraddha Kapoor,https://picsum.photos/id/129/300/450
+31,Gangs of Wasseypur,1997,Drama,Hindi,6.6,Rajkummar Rao,Kiara Advani,https://picsum.photos/id/130/300/450
+32,Barfi!,2017,Romance,Hindi,6.3,Ayushmann Khurrana,Kriti Sanon,https://picsum.photos/id/131/300/450
+33,Dil Dhadakne Do,1992,Horror,Hindi,8.7,Vicky Kaushal,Sara Ali Khan,https://picsum.photos/id/132/300/450
+34,Kabhi Khushi Kabhie Gham,2021,Horror,Hindi,8.0,Pankaj Tripathi,Janhvi Kapoor,https://picsum.photos/id/133/300/450
+35,Rang De Basanti,2010,Horror,Hindi,8.7,Manoj Bajpayee,Bhumi Pednekar,https://picsum.photos/id/134/300/450
+36,Taare Zameen Par,2002,Fantasy,Hindi,6.5,Ajay Devgn,Sonam Kapoor,https://picsum.photos/id/135/300/450
+37,Lage Raho Munna Bhai,1992,Adventure,Hindi,6.8,Varun Dhawan,Madhuri Dixit,https://picsum.photos/id/136/300/450
+38,Swades,1991,Thriller,Hindi,7.7,Shahid Kapoor,Kajol,https://picsum.photos/id/137/300/450
+39,Chak De! India,2001,Horror,Hindi,7.1,Sushant Singh Rajput,Rani Mukerji,https://picsum.photos/id/138/300/450
+40,Drishyam,2009,Romance,Hindi,8.8,Anil Kapoor,Aishwarya Rai,https://picsum.photos/id/139/300/450
+41,Baahubali: The Beginning,2010,Sci-Fi,Telugu,5.2,Prabhas,Samantha Ruth Prabhu,https://picsum.photos/id/140/300/450
+42,Baahubali 2: The Conclusion,2000,Thriller,Telugu,7.8,Allu Arjun,Anushka Shetty,https://picsum.photos/id/141/300/450
+43,Arjun Reddy,2015,Horror,Telugu,5.9,Ram Charan,Kajal Aggarwal,https://picsum.photos/id/142/300/450
+44,RRR,1996,Fantasy,Telugu,6.7,Jr NTR,Pooja Hegde,https://picsum.photos/id/143/300/450
+45,Pushpa: The Rise,1993,Fantasy,Telugu,5.5,Mahesh Babu,Rashmika Mandanna,https://picsum.photos/id/144/300/450
+46,Ala Vaikunthapurramuloo,1992,Adventure,Telugu,7.3,Nani,Keerthy Suresh,https://picsum.photos/id/145/300/450
+47,Magadheera,2020,Drama,Telugu,8.7,Vijay Deverakonda,Nayanthara,https://picsum.photos/id/146/300/450
+48,Eega,2015,Sci-Fi,Telugu,7.8,Chiranjeevi,Tamannaah Bhatia,https://picsum.photos/id/147/300/450
+49,Sye Raa Narasimha Reddy,2012,Drama,Telugu,7.3,Nagarjuna,Rakul Preet Singh,https://picsum.photos/id/148/300/450
+50,Jersey,1997,Adventure,Telugu,9.5,Venkatesh,Sai Pallavi,https://picsum.photos/id/149/300/450
+51,Mahanati,2009,Action,Telugu,9.8,Ravi Teja,Shruti Haasan,https://picsum.photos/id/150/300/450
+52,Rangasthalam,2017,Romance,Telugu,7.6,Naga Chaitanya,Nithya Menen,https://picsum.photos/id/151/300/450
+53,Fidaa,1993,Sci-Fi,Telugu,7.3,Rana Daggubati,Ritu Varma,https://picsum.photos/id/152/300/450
+54,Pokiri,2013,Romance,Telugu,9.1,Sai Dharam Tej,Raashi Khanna,https://picsum.photos/id/153/300/450
+55,Athadu,1998,Romance,Telugu,5.9,Nikhil Siddhartha,Regina Cassandra,https://picsum.photos/id/154/300/450
+56,Okkadu,1990,Drama,Telugu,9.8,Adivi Sesh,Lavanya Tripathi,https://picsum.photos/id/155/300/450
+57,Nuvvu Nenu,2020,Horror,Telugu,5.9,Sudheer Babu,Eesha Rebba,https://picsum.photos/id/156/300/450
+58,Kushi,1998,Thriller,Telugu,8.3,Sharwanand,Mehreen Pirzada,https://picsum.photos/id/157/300/450
+59,Bommarillu,2008,Adventure,Telugu,5.1,Naveen Polishetty,Nabha Natesh,https://picsum.photos/id/158/300/450
+60,Awe!,1991,Sci-Fi,Telugu,6.4,Vishwak Sen,Krithi Shetty,https://picsum.photos/id/159/300/450
+61,Vikram,1996,Thriller,Tamil,9.2,Vijay,Trisha Krishnan,https://picsum.photos/id/160/300/450
+62,Master,2006,Romance,Tamil,8.5,Ajith Kumar,Jyothika,https://picsum.photos/id/161/300/450
+63,Vada Chennai,2001,Comedy,Tamil,7.3,Suriya,Aishwarya Rajesh,https://picsum.photos/id/162/300/450
+64,Super Deluxe,1994,Fantasy,Tamil,8.1,Dhanush,Keerthy Suresh,https://picsum.photos/id/163/300/450
+65,Asuran,2001,Adventure,Tamil,5.0,Vikram,Nayanthara,https://picsum.photos/id/164/300/450
+66,Kaithi,2015,Thriller,Tamil,6.1,Kamal Haasan,Samantha Ruth Prabhu,https://picsum.photos/id/165/300/450
+67,Pariyerum Perumal,2005,Action,Tamil,5.6,Rajinikanth,Kajal Aggarwal,https://picsum.photos/id/166/300/450
+68,96,2004,Adventure,Tamil,6.3,Karthi,Tamannaah Bhatia,https://picsum.photos/id/167/300/450
+69,Aruvi,1995,Adventure,Tamil,7.7,Sivakarthikeyan,Shruti Haasan,https://picsum.photos/id/168/300/450
+70,Visaranai,2000,Fantasy,Tamil,8.5,Vijay Sethupathi,Nithya Menen,https://picsum.photos/id/169/300/450
+71,Jai Bhim,1998,Adventure,Tamil,6.9,Madhavan,Aishwarya Rai,https://picsum.photos/id/170/300/450
+72,Soorarai Pottru,2003,Adventure,Tamil,6.3,Arya,Amala Paul,https://picsum.photos/id/171/300/450
+73,Karnan,2013,Comedy,Tamil,9.6,Jayam Ravi,Hansika Motwani,https://picsum.photos/id/172/300/450
+74,Kaithi,2021,Drama,Tamil,9.9,Simbu,Anushka Shetty,https://picsum.photos/id/173/300/450
+75,Peranbu,2015,Adventure,Tamil,8.4,Vishal,Sai Pallavi,https://picsum.photos/id/174/300/450
+76,Drishyam,2022,Thriller,Malayalam,9.9,Mohanlal,Manju Warrier,https://picsum.photos/id/175/300/450
+77,Kumbalangi Nights,2022,Adventure,Malayalam,9.9,Mammootty,Parvathy Thiruvothu,https://picsum.photos/id/176/300/450
+78,Premam,2006,Sci-Fi,Malayalam,9.0,Fahadh Faasil,Nazriya Nazim,https://picsum.photos/id/177/300/450
+79,Bangalore Days,2007,Action,Malayalam,5.8,Dulquer Salmaan,Nayanthara,https://picsum.photos/id/178/300/450
+80,Maheshinte Prathikaaram,2023,Adventure,Malayalam,7.9,Nivin Pauly,Nimisha Sajayan,https://picsum.photos/id/179/300/450
+81,Thondimuthalum Driksakshiyum,2011,Adventure,Malayalam,8.6,Tovino Thomas,Anna Ben,https://picsum.photos/id/180/300/450
+82,Ee.Ma.Yau,1999,Drama,Malayalam,7.6,Prithviraj Sukumaran,Aishwarya Lekshmi,https://picsum.photos/id/181/300/450
+83,Jallikattu,2007,Comedy,Malayalam,6.7,Asif Ali,Aparna Balamurali,https://picsum.photos/id/182/300/450
+84,Angamaly Diaries,1990,Action,Malayalam,6.9,Kunchacko Boban,Grace Antony,https://picsum.photos/id/183/300/450
+85,Sudani from Nigeria,2014,Comedy,Malayalam,5.6,Biju Menon,Rajisha Vijayan,https://picsum.photos/id/184/300/450
+86,KGF: Chapter 1,2017,Comedy,Kannada,6.3,Yash,Rachita Ram,https://picsum.photos/id/185/300/450
+87,KGF: Chapter 2,2006,Fantasy,Kannada,9.8,Sudeep,Radhika Pandit,https://picsum.photos/id/186/300/450
+88,Kantara,1998,Fantasy,Kannada,7.8,Darshan,Rashmika Mandanna,https://picsum.photos/id/187/300/450
+89,Lucia,2015,Sci-Fi,Kannada,5.4,Puneeth Rajkumar,Shanvi Srivastava,https://picsum.photos/id/188/300/450
+90,Ulidavaru Kandanthe,1992,Fantasy,Kannada,5.9,Upendra,Shraddha Srinath,https://picsum.photos/id/189/300/450
+91,Rangitaranga,2000,Thriller,Kannada,8.7,Rakshit Shetty,Haripriya,https://picsum.photos/id/190/300/450
+92,U Turn,1998,Sci-Fi,Kannada,5.2,Ganesh,Ashika Ranganath,https://picsum.photos/id/191/300/450
+93,Kirik Party,2017,Horror,Kannada,8.5,Shiva Rajkumar,Nabha Natesh,https://picsum.photos/id/192/300/450
+94,Dia,1999,Comedy,Kannada,5.1,Duniya Vijay,Srinidhi Shetty,https://picsum.photos/id/193/300/450
+95,Godhi Banna Sadharana Mykattu,2013,Drama,Kannada,9.6,Dhruva Sarja,Aditi Prabhudeva,https://picsum.photos/id/194/300/450
+96,Movie Title 96,2011,Crime,Kannada,9.2,Diganth,Meghana Raj,https://picsum.photos/id/195/300/450
+97,Movie Title 97,2015,Adventure,Kannada,6.6,Prajwal Devaraj,Ragini Dwivedi,https://picsum.photos/id/196/300/450
+98,Movie Title 98,2016,Crime,Kannada,5.9,Srimurali,Amulya,https://picsum.photos/id/197/300/450
+99,Movie Title 99,2010,Romance,Kannada,9.6,Dhananjay,Malashri,https://picsum.photos/id/198/300/450
+100,Movie Title 100,2015,Adventure,Kannada,6.1,Rishabh Shetty,Ramya,https://picsum.photos/id/199/300/450
