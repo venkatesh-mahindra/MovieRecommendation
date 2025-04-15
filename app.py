@@ -164,7 +164,7 @@ def create_sample_dataset():
         ],
         'actress': [
             # English actresses
-            'Meryl Streep', 'Jennifer Lawrence', 'Scarlett  [
+            'Meryl Streep', 'Jennifer Lawrence', 'Scarlett']  [
             # English actresses
             'Meryl Streep', 'Jennifer Lawrence', 'Scarlett Johansson', 'Emma Stone', 'Natalie Portman',
             'Cate Blanchett', 'Anne Hathaway', 'Viola Davis', 'Nicole Kidman', 'Kate Winslet',
